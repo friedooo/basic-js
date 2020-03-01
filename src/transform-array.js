@@ -1,4 +1,5 @@
 module.exports = function transform(arr) {
+    throw 'Not implemented';
     if (Array.isArray(arr) == false)
     throw new Error();
     let result = [];
