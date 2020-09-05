@@ -26,4 +26,3 @@ module.exports = function dateSample(sActivity) {
   return false;
   return result;
 };
-
